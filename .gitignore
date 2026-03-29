@@ -1,0 +1,17 @@
+# Raw data - never push production telemetry
+data/raw/
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large model files
+*.pkl
+*.pt
