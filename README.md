@@ -24,5 +24,3 @@ pip install -r requirements.txt
 └── src/               ← reusable Python modules
 ```
 
-## Submission
-GitHub repo submitted to tech@renewcred.com within 72 hours.
