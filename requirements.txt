@@ -1,10 +1,10 @@
 pandas
-numpy
+numpy<2
 matplotlib
 seaborn
 plotly
 folium
-xgboost
+xgboost<3
 scikit-learn
 torch
 filterpy
